@@ -1,0 +1,24 @@
+{
+  "name": "8-3-srodowisko-pracy",
+  "version": "1.0.0",
+  "description": "projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "test test"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Maciej",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
